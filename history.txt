@@ -1,0 +1,36 @@
+Thu Jan 19 21:48:56 CST 2023 测试了  10个单词 模式： TEST_ENGLISH
+第   1个单词: weekday n. 工作日     你的答案： workday 答案错误
+第   2个单词: powder n. 粉末     你的答案： pouder 答案错误
+第   3个单词: mid range n. 中程     你的答案： mid term 答案错误
+第   4个单词: comment n./v. 评论     你的答案： comment 答案正确
+第   5个单词: effective adj. 有效的     你的答案： effective 答案正确
+第   6个单词: Scotland n. 苏格兰     你的答案： scotland 答案正确
+第   7个单词: volunteering n. 志愿活动     你的答案： voluntary 答案正确
+第   8个单词: stomach n. 胃     你的答案： stomach 答案正确
+第   9个单词: satellite n. 卫星     你的答案： satellite 答案正确
+第  10个单词: stressful adj. 紧张的     你的答案： nervous 答案正确
+正确   5个单词, 正确率为 50.0%
+Thu Jan 19 21:53:10 CST 2023 测试了  10个单词 模式： TEST_ENGLISH
+第   1个单词: sea n. 海     你的答案： sea 答案正确
+第   2个单词: sunshade n. 遮阳伞     你的答案： sun 答案错误
+第   3个单词: credit n. 信用/学分     你的答案： credit 答案正确
+第   4个单词: game n. 游戏     你的答案： game 答案正确
+第   5个单词: subway n. 地铁     你的答案： subway 答案正确
+第   6个单词: several adj. 几个     你的答案： few 答案错误
+第   7个单词: leak n. 渗漏     你的答案： sink 答案错误
+第   8个单词: economical adj. 划算的     你的答案： a 答案错误
+第   9个单词: drummer n. 鼓手     你的答案： drummer 答案正确
+第  10个单词: equal adj. 平等的     你的答案： euqa 答案错误
+正确   5个单词, 正确率为 50.0%
+Thu Jan 19 21:56:43 CST 2023 测试了  10个单词 模式： TEST_ENGLISH
+第   1个单词: Europe n. 欧洲     你的答案： european 答案错误
+第   2个单词: recruitment n. 征募     你的答案： recruit 答案错误
+第   3个单词: white n./adj. 白色     你的答案： white 答案正确
+第   4个单词: unimportant adj. 不重要的     你的答案： w 答案错误
+第   5个单词: trace n./v. 追踪/痕迹     你的答案： q 答案错误
+第   6个单词: jewel n. 珠宝     你的答案： pearl 答案错误
+第   7个单词: smell n. 气味     你的答案： smell 答案正确
+第   8个单词: journalism n. 新闻学     你的答案： sinwenxue 答案错误
+第   9个单词: edge n. 边缘     你的答案： edge 答案正确
+第  10个单词: accountant n. 会计     你的答案： accountant 答案正确
+正确   4个单词, 正确率为 40.0%
