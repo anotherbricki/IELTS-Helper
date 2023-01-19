@@ -4,11 +4,11 @@
 
 ### ——2000+ 雅思核心词汇学习、默写
 
-<img src="assets\1674135407510.png" alt="1674135407510" style="zoom:50%;" />
+<img src="assets\1674135407510.png" alt="1674135407510" style="zoom:25%;" />
 
 ### ——丰富多样的模式
 
-<img src="assets\1674135181394.png" alt="1674135181394" style="zoom:50%;" />
+<img src="assets\1674135181394.png" alt="1674135181394" style="zoom:25%;" />
 
 ### ——详尽的历史记录
 
