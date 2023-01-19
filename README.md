@@ -4,17 +4,17 @@
 
 ### ——2000+ 雅思核心词汇学习、默写
 
-<img src="C:\computers\java\IELTS-Helper\assets\1674135407510.png" alt="1674135407510" style="zoom:50%;" />
+<img src="assets\1674135407510.png" alt="1674135407510" style="zoom:50%;" />
 
 ### ——丰富多样的模式
 
-<img src="C:\computers\java\IELTS-Helper\assets\1674135181394.png" alt="1674135181394" style="zoom:50%;" />
+<img src="assets\1674135181394.png" alt="1674135181394" style="zoom:50%;" />
 
 ### ——详尽的历史记录
 
-<img src="C:\computers\java\IELTS-Helper\assets\1674135339562.png" alt="1674135339562" style="zoom:50%;" />
+<img src="assets\1674135339562.png" alt="1674135339562" style="zoom:50%;" />
 
-<img src="C:\computers\java\IELTS-Helper\assets\1674136658126.png" alt="1674136658126" style="zoom:50%;" />
+<img src="assets\1674136658126.png" alt="1674136658126" style="zoom:50%;" />
 
 ### 功能介绍
 
