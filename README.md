@@ -1,6 +1,7 @@
 
 
 # <center>IELTS HELPER</center>
+A simple JAVA application to test your IELTS vocabulary.
 
 ### ——2000+ 雅思核心词汇学习、默写
 
